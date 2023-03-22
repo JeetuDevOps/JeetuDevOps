@@ -1,3 +1,4 @@
+![logo](https://github.com/JeetuDevOps/JeetuDevOps/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Jeetendra Kumar Gupta</h1>
 <h3 align="center">Transforming development workflows with DevOps methodologies</h3>
 
